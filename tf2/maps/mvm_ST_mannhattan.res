@@ -6,5 +6,7 @@ Resources
 	"materials\tankdisplayMannhattan.vtf"	"file"
     "materials\hud\Leaderboard_class_Perfect_Cell.vmt"	"file"
 	"materials\hud\Leaderboard_class_Perfect_Cell.vtf"	"file"
+    "materials\hud\Leaderboard_class_Perfect_Cell_giant.vmt"	"file"
+	"materials\hud\Leaderboard_class_Perfect_Cell_giant.vtf"	"file"
     "sound\PerfectCell.mp3"	"file"
 }
