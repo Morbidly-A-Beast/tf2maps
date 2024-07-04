@@ -60,7 +60,6 @@
 	"materials\hud\Leaderboard_class_France_giant.vtf"	"file"
     	"materials\hud\Leaderboard_class_French_Resistance.vmt"	"file"
 	"materials\hud\Leaderboard_class_French_Resistance.vtf"	"file"
-    	"sound\PerfectCell.mp3"	"file"
     	"sound\USSRAnthem.mp3"	"file"
     	"sound\GotOil.mp3"	"file"
 }
