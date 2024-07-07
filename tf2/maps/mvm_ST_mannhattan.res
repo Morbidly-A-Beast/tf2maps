@@ -56,4 +56,6 @@ Resources
     "materials\hud\leaderboard_class_troll6.vmt"	"file"
     "materials\hud\leaderboard_class_troll7.vmt"	"file"
     "materials\hud\leaderboard_class_troll8.vmt"	"file"
+    "models\coolface.mdi" "file"
+    "models\coolface2.mdi" "file"
 }
