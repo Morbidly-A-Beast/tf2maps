@@ -58,4 +58,12 @@ Resources
     "materials\hud\leaderboard_class_troll8.vmt"	"file"
     "models\coolface.mdl" "file"
     "models\coolface2.mdl" "file"
+    "models\coolface.phy" "file"
+    "models\coolface.sw.vtx" "file"
+    "models\coolface.vvd" "file"
+    "models\coolface2.dx80.vtx" "file"
+    "models\coolface2.dx90.vtx "file"
+    "models\coolface2.phy" "file"
+    "models\coolface2.sw.vtx" "file"
+    "models\coolface2.vvd" "file"
 }
