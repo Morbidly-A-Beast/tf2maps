@@ -62,4 +62,11 @@
 	"materials\hud\Leaderboard_class_French_Resistance.vtf"	"file"
     	"sound\USSRAnthem.mp3"	"file"
     	"sound\GotOil.mp3"	"file"
+	"models\props_frontline\tank_turret.dx80.vtx" "file"
+	"models\props_frontline\tank_turret.dx90.vtx" "file"
+	"models\props_frontline\tank_turret.mdl" "file"
+	"models\props_frontline\tank_turret.phy" "file"
+	"models\props_frontline\tank_turret.vvd" "file"
+	"materials\models\props_frontline\tank_blue.vmt" "file"
+	"materials\models\props_frontline\tank_blue.vtf" "file"
 }
