@@ -65,5 +65,4 @@ Resources
     "sound\JapanAnthem.mp3"	"file"
     "sound\RomanianAnthem.mp3"	"file"
     "sound\ThirdReichAnthem.mp3"	"file"
-
 }
