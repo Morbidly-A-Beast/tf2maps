@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_heavy_fastcapture"
+	"$baseTexture" "hud/leaderboard_class_heavy_gru_push"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1
