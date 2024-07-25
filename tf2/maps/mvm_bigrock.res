@@ -819,6 +819,8 @@
 	"materials\hud\leaderboard_class_spy_saharan.vmt"	"file"
 	"materials\hud\leaderboard_class_spy_saharan.vtf"	"file"
 	"models\bots\demo\red_sentry_buster.dx80.vtx"	"file"
+	"materials\models\bots\demo\demo_buster_red.vtf"	"file"
+	"materials\models\bots\demo\demo_buster_red.vmt"	"file"
 	"models\bots\demo\red_sentry_buster.dx90.vtx"	"file"
 	"models\bots\demo\red_sentry_buster.mdl"	"file"
 	"models\bots\demo\red_sentry_buster.phy"	"file"
