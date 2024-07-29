@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud\leaderboard_class_boss_plutia_patriot"
+	"$baseTexture" "hud/leaderboard_class_boss_plutia_patriot"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1
