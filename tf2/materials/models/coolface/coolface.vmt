@@ -1,4 +1,4 @@
 VertexLitGeneric
 {
-    $basetexture "models/coolface/coolface"
+    $basetexture "models/coolface/coolface.vtf"
 }
