@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud/leaderboard_class_demoman"
+	"$baseTexture" "hud/leaderboard_class_demo_giant_bomber_healonkill"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1
