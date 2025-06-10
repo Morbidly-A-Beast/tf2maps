@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/term_title_1"
+	"$translucent" "1"
+
+	"Proxies"
+	{
+	"AnimatedTexture"
+	{
+		"animatedTextureVar" "$basetexture" "animatedtextureframenumvar" "$frame"
+		"animatedTextureFrameRate" "10"
+	}
+	}
+}

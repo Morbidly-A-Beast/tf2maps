@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/doom_eternal/demons/dark_lord/weapon/darklord_mech_sword"
+	"$detail" "models/doom_eternal/demons/dark_lord/weapon/crucible_blade_mask2"
+	"$detailscale"	"1"
+	"$translucent"	"1"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar"	"$DETAILTEXTURETRANSFORM"
+			"texturescrollrate"	"0.2"
+			"texturescrollangle"	"90"
+		}
+	}
+}

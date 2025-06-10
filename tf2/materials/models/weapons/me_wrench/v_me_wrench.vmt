@@ -1,0 +1,12 @@
+Patch
+{
+include "materials/models/weapons/nmrih_melee_shared.vmt"
+insert
+{
+$basetexture "models/weapons/me_wrench/v_me_wrench"
+$bumpmap "models/weapons/me_wrench/wrench_normals"
+
+$surfaceprop "metal"
+	"keywords" "leadpipe"
+}
+}

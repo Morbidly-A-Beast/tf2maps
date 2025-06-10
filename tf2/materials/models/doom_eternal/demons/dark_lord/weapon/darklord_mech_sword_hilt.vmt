@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doom_eternal/demons/dark_lord/weapon/darklord_mech_sword_hilt"
+	"$bumpmap" "models/doom_eternal/demons/dark_lord/weapon/darklord_mech_sword_hilt_n"
+	"$phongexponenttexture" "models/doom_eternal/demons/dark_lord/weapon/darklord_mech_sword_hilt_e"
+	
+    "$phong" "1"
+    "$phongboost"    "23.076"
+	"$phongfresnelranges"	"[0.0 0.225 1.0]"
+    "$phongdisablehalflambert"    "1"
+
+	"$selfillum"	"1"
+	"$selfillummask" "models/doom_eternal/demons/dark_lord/weapon/darklord_mech_sword_hilt_i"
+	"$selfIllumFresnel"	"1"
+	"$selfIllumFresnelMinMaxExp"	"[1 3 0]"
+}

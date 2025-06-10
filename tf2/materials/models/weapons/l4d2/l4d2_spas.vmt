@@ -1,0 +1,37 @@
+VertexLitGeneric
+{
+"$baseTexture" "models/Weapons/l4d2/l4d2_spas"
+"$model" "1"
+
+"$bumpmap" "models/Weapons/l4d2/l4d2_spas_normal"
+
+
+"$phong" "1"
+"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+"$phongfresnelranges"	"[.3 1 8]"
+"$halflambert" "1"
+
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"Proxies"
+	{
+		"weapon_invis"
+		{
+		}
+		"ModelGlowColor"
+		{
+			"resultVar" "$glowcolor"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$selfillumtint"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$color2"
+		}
+	}
+}
